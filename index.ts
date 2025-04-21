@@ -50,7 +50,6 @@ class Televisor {
     }
 }
 
-// Clase Decodificador definida afuera, pero es usada exclusivamente dentro de Televisor
 class Decodificador {
     private volumen: number;
     private canal: number;
